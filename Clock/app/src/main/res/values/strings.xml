@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Clock</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="addAlom">添加闹钟</string>
+</resources>
